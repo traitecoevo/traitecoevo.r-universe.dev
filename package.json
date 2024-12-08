@@ -8,7 +8,23 @@
         "url": "https://github.com/traitecoevo/austraits"
     },
     {
+        "package": "traits.build",
+        "url": "https://github.com/traitecoevo/traits.build"
+    },
+    {
+        "package": "APD",
+        "url": "https://github.com/traitecoevo/APD"
+    },
+    {
         "package": "APCalign",
         "url": "https://github.com/traitecoevo/APCalign"
+    },
+    {
+        "package": "litterfitter",
+        "url": "https://github.com/traitecoevo/litterfitter"
+    },
+    {
+        "package": "hmde",
+        "url": "https://github.com/traitecoevo/hmde"
     }
 ]
