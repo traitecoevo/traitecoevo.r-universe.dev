@@ -1,5 +1,9 @@
 [
     {
+        "package": "plant",
+        "url": "https://github.com/traitecoevo/plant"
+    },
+    {
         "package": "infinitylists",
         "url": "https://github.com/traitecoevo/infinitylists"
     },
@@ -26,5 +30,13 @@
     {
         "package": "hmde",
         "url": "https://github.com/traitecoevo/hmde"
+    },
+    {
+        "package": "bmsma",
+        "url": "https://github.com/traitecoevo/bmsma"
+    },
+    {
+        "package": "smatr",
+        "url": "https://github.com/traitecoevo/smatr"
     }
 ]
