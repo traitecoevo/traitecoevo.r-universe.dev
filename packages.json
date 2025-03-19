@@ -4,6 +4,10 @@
         "url": "https://github.com/traitecoevo/plant"
     },
     {
+        "package": "baad.data",
+        "url": "https://github.com/traitecoevo/baad.data"
+    },
+    {
         "package": "infinitylists",
         "url": "https://github.com/traitecoevo/infinitylists"
     },
