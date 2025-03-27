@@ -42,5 +42,9 @@
     {
         "package": "smatr",
         "url": "https://github.com/traitecoevo/smatr"
+    },
+    {
+        "package": "earthtones",
+        "url": "https://github.com/traitecoevo/earthtones"
     }
 ]
