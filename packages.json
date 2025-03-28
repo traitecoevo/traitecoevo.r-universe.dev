@@ -20,10 +20,6 @@
         "url": "https://github.com/traitecoevo/traits.build"
     },
     {
-        "package": "APD",
-        "url": "https://github.com/traitecoevo/APD"
-    },
-    {
         "package": "APCalign",
         "url": "https://github.com/traitecoevo/APCalign"
     },
