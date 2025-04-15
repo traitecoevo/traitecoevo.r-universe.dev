@@ -42,5 +42,9 @@
     {
         "package": "earthtones",
         "url": "https://github.com/traitecoevo/earthtones"
+    },
+    {
+        "package": "taxonlookup",
+        "url": "https://github.com/traitecoevo/taxonlookup"
     }
 ]
