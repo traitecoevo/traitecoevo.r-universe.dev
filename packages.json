@@ -54,5 +54,13 @@
     {
         "package": "leaf13C",
         "url": "https://github.com/traitecoevo/leaf13C"
+    },
+    {
+        "package": "ksi",
+        "url": "https://github.com/traitecoevo/ksi"
+    },
+    {
+        "package": "phyndr",
+        "url": "https://github.com/traitecoevo/phyndr"
     }
 ]
