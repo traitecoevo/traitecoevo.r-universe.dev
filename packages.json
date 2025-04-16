@@ -46,5 +46,9 @@
     {
         "package": "taxonlookup",
         "url": "https://github.com/traitecoevo/taxonlookup"
+    },
+    {
+        "package": "fungaltraits",
+        "url": "https://github.com/traitecoevo/fungaltraits"
     }
 ]
