@@ -50,5 +50,9 @@
     {
         "package": "fungaltraits",
         "url": "https://github.com/traitecoevo/fungaltraits"
+    },
+    {
+        "package": "leaf13C",
+        "url": "https://github.com/traitecoevo/leaf13C"
     }
 ]
