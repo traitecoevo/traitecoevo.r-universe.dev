@@ -70,5 +70,49 @@
     {
         "package": "growthform",
         "url": "https://github.com/traitecoevo/growthform"
+    },
+    {
+        "package": "saltbush",
+        "url": "https://github.com/traitecoevo/saltbush"
+    },
+    {
+        "package": "rabbit",
+        "url": "https://github.com/traitecoevo/rabbit"
+    },
+    {
+        "package": "birdnetprocess",
+        "url": "https://github.com/traitecoevo/birdnetprocess"
+    },
+    {
+        "package": "EcoacousticUtilities",
+        "url": "https://github.com/traitecoevo/ecoacoustic_utilities"
+    },
+    {
+        "package": "taxonAlign",
+        "url": "https://github.com/traitecoevo/taxonAlign"
+    },
+    {
+        "package": "odelia",
+        "url": "https://github.com/traitecoevo/odelia"
+    },
+    {
+        "package": "regnans",
+        "url": "https://github.com/traitecoevo/regnans"
+    },
+    {
+        "package": "fieldtrial",
+        "url": "https://github.com/traitecoevo/fieldtrial"
+    },
+    {
+        "package": "phylloptim",
+        "url": "https://github.com/traitecoevo/phylloptim"
+    },
+    {
+        "package": "framecpp",
+        "url": "https://github.com/traitecoevo/framecpp"
+    },
+    {
+        "package": "responses.build",
+        "url": "https://github.com/traitecoevo/responses.build"
     }
 ]
